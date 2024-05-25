@@ -16,4 +16,3 @@ print(f'Joining the string: {" ".join(split_string)}')
 print(f'Accessing the string: {string[0:]}')
 print(f'Accessing the string: {string[:-1]}')
 print(f'Accessing the string: {string[:len(string)]}')
-
