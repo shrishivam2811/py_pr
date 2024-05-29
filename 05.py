@@ -1,6 +1,5 @@
 # Write a Python function to find the maximum and minimum numbers from a sequence of numbers.
 
-# Solution:
 def max_min(sequence):
     return max(sequence), min(sequence)
 
