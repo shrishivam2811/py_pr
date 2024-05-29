@@ -1,4 +1,4 @@
-# This is the module for 06_py
+# This is the module for 06.py
 # Fibonacci module
 def fib(n):
     if n <= 0:
